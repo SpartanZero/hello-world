@@ -1,1 +1,4 @@
 # hello-world
+
+- Foo
+- Bar
