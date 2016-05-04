@@ -2,3 +2,5 @@
 
 - Foo
 - Bar
+
+This is a standard test scenario.
